@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE.Tools.ScratchPOC", "ScratchPOC\SE.Tools.ScratchPOC\SE.Tools.ScratchPOC.csproj", "{C61F22E6-F344-42B1-B84F-E8BFCABCE5FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{56AAE141-21B0-4299-B931-0CD2A4A8D841}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScratchPOC", "ScratchPOC", "{1A44FFE4-614F-42F8-9A1F-70692AE15CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C61F22E6-F344-42B1-B84F-E8BFCABCE5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61F22E6-F344-42B1-B84F-E8BFCABCE5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61F22E6-F344-42B1-B84F-E8BFCABCE5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61F22E6-F344-42B1-B84F-E8BFCABCE5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C61F22E6-F344-42B1-B84F-E8BFCABCE5FF} = {1A44FFE4-614F-42F8-9A1F-70692AE15CF5}
+		{1A44FFE4-614F-42F8-9A1F-70692AE15CF5} = {56AAE141-21B0-4299-B931-0CD2A4A8D841}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29993D29-502D-45AC-9487-E56E8241D537}
+	EndGlobalSection
+EndGlobal
