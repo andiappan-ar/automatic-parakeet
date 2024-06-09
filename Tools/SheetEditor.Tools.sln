@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SE.Tools.ScratchPOC", "ScratchPOC\SE.Tools.ScratchPOC\SE.Tools.ScratchPOC.csproj", "{C61F22E6-F344-42B1-B84F-E8BFCABCE5FF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{56AAE141-21B0-4299-B931-0CD2A4A8D841}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScratchPOC", "ScratchPOC", "{1A44FFE4-614F-42F8-9A1F-70692AE15CF5}"
 EndProject
